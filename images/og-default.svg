@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Andre Attamimi - Learn, Practice, Share and Grow">
+  <!-- Palette matches site's light-dark() scheme (light values, since OG images are static) -->
+  <!-- bg: #ebebe4  border: #d8d8cf  faint: #83837a  accent: #16160f -->
+
+  <rect width="1200" height="630" fill="#ebebe4"/>
+  <rect x="24" y="24" width="1152" height="582" rx="24" fill="none" stroke="#d8d8cf" stroke-width="2"/>
+
+  <!-- window dots -->
+  <circle cx="80" cy="80" r="12" fill="#83837a" opacity="0.5"/>
+  <circle cx="136" cy="80" r="12" fill="#83837a" opacity="0.5"/>
+  <circle cx="192" cy="80" r="12" fill="#83837a" opacity="0.5"/>
+
+  <!-- name -->
+  <text x="80" y="330" font-family="'Space Mono', 'Times New Roman', serif" font-size="88" font-weight="700" fill="#16160f">Andre Attamimi</text>
+
+  <!-- accent mark, echoes the placeholder card's cursor block -->
+  <rect x="80" y="368" width="64" height="24" rx="6" fill="#16160f"/>
+
+  <!-- tagline -->
+  <text x="80" y="440" font-family="'SF Mono', 'Menlo', 'Consolas', monospace" font-size="34" fill="#83837a">Learn, Practice, Share and Grow</text>
+
+  <!-- footer rule + url -->
+  <rect x="80" y="500" width="1040" height="2" fill="#d8d8cf"/>
+  <text x="80" y="548" font-family="'SF Mono', 'Menlo', 'Consolas', monospace" font-size="24" fill="#83837a">andreattamimi.my.id</text>
+</svg>
